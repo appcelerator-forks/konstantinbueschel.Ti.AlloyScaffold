@@ -1,0 +1,6 @@
+<Alloy>
+	<View id="viewProxy">
+		<ImageView id="imageView"></ImageView>
+		<ActivityIndicator id="loader"></ActivityIndicator>
+	</View>
+</Alloy>

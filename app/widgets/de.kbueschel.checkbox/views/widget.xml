@@ -1,0 +1,5 @@
+<Alloy>
+	<View id="viewProxy">
+		<Button id="checkBox" onSingleTap="_toggle"/>
+	</View>
+</Alloy>

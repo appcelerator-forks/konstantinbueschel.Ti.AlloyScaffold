@@ -1,0 +1,19 @@
+'.container': {
+
+	width: Ti.UI.SIZE,
+	height: Ti.UI.SIZE,
+
+	backgroundColor: '#4000',
+	borderRadius: 5
+}
+
+'.indicator': {
+	color: '#fff'
+}
+
+'.button': {
+
+	title: 'Senden',
+	width: Ti.UI.FILL,
+	color: '#ffffff'
+}

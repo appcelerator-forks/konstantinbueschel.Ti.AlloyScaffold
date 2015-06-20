@@ -1,0 +1,1 @@
+module.exports = require('alloy/underscore')._.clone(require('alloy/backbone').Events);

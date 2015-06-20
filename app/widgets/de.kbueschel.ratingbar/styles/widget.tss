@@ -1,0 +1,50 @@
+"#viewProxy": {
+
+	width:  Ti.UI.SIZE,
+	height: Ti.UI.SIZE,
+
+	layout:          'horizontal',
+	backgroundColor: '#ffffff',
+	opacity:         1
+}
+
+
+"#viewProxy[platform=ios]": {
+
+	ratingImagePathEmpty:      '/icons/ratingbar/rating_empty.png',
+    ratingImagePathHalf:       '/icons/ratingbar/rating_half.png',
+    ratingImagePathFull:       '/icons/ratingbar/rating_full.png',
+    ratingImagePathFullFilled: '/icons/ratingbar/rating_full_filled.png'
+}
+
+
+"#viewProxy[platform=android]": {
+
+	ratingImagePathEmpty:      '/images/icons/ratingbar/ic_rating_empty.png',
+    ratingImagePathHalf:       '/images/icons/ratingbar/ic_rating_half.png',
+    ratingImagePathFull:       '/images/icons/ratingbar/ic_rating_full.png',
+    ratingImagePathFullFilled: '/images/icons/ratingbar/ic_rating_full_filled.png'
+}
+
+
+".rating": {
+
+	width:  32,
+	height: 30,
+	right:  1
+}
+
+
+".rating[platform=ios]": {
+
+	image: '/icons/ratingbar/rating_empty.png'
+}
+
+
+".rating[platform=android]": {
+
+	image: '/images/icons/ratingbar/ic_rating_empty.png'
+}
+
+
+

@@ -1,0 +1,5 @@
+<Alloy>
+	<View id="viewProxy" onPostlayout="_afterMessageLayout">
+		<Label id="notificationMessage" />
+	</View>
+</Alloy>
