@@ -1,7 +1,0 @@
-<Alloy>
-	<!-- iOS -->
-	<Module module="path.animator" method="createView" id="menuIcon" platform="ios" onClick="_forwardIconClick" />
-
-	<!-- Android-->
-	<ImageView id="menuIcon" platform="android" onClick="_forwardIconClick" />
-</Alloy>

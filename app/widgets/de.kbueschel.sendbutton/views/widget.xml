@@ -1,6 +1,0 @@
-<Alloy>
-	<View id="proxy" class="container">
-		<Button id="sendButton" class="button" onClick="_send"/>
-		<ActivityIndicator id="loadingIndicator" class="indicator" />
-	</View>
-</Alloy>

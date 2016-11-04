@@ -1,5 +1,0 @@
-<Alloy>
-	<View id="menu" onClick="_toggleMenu">
-		<ImageView id="menuButton" onClick="_toggleMenu" />
-	</View>
-</Alloy>
